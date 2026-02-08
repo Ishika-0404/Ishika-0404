@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ishika Naikele
 
-### 💻 Data Engineer | 🗄️ SQL Enthusiast | ☁️ Cloud & ETL Specialist
+### 💻 Data Analyst
 
 [![Email](https://img.shields.io/badge/Email-naikeleishika3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naikeleishika3@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91%207620502412-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917620502412)
